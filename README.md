@@ -20,8 +20,12 @@ Abaixo, a descrição dos scripts contidos nesta pasta:
 | `aula_03-limitar_qtde_linhas.sql` | Otimização de consultas com `LIMIT`. |
 | `aula_04-como_filtrar_linhas.sql` | Uso do `WHERE` para filtrar registros. |
 | `aula_05-multiplos_filtros_simultaneos.sql` | Filtros complexos usando `AND`, `OR` e `BETWEEN`. |
+| `aula_06_criando_novas_colunas_com_condicoes.sql` | Criação de lógica condicional com `CASE WHEN`. |
+| `aula_07_ordenando_linhas_de_consultas.sql` | Organização de resultados com `ORDER BY` (ASC/DESC). |
 | `exercicios_01/` | Pasta com desafios práticos iniciais. |
 | `exercicios_02_uso_de_filtros/` | Desafios práticos focados em filtragem de dados. |
+| `exercicios_03_case_when/` | Prática de criação de colunas condicionais e segmentação. |
+| `exercicios_04_ordenacao/` | Exercícios para ordenar e priorizar visualização de dados. |
 
 ### 🚀 Como utilizar
 1. Clone o repositório: `git clone https://github.com/SEU_USUARIO/NOME_DO_REPO.git`
