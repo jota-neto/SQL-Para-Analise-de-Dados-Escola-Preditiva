@@ -1,0 +1,24 @@
+# --- Dados e Arquivos Temporários ---
+*.csv
+*.xlsx
+*.json
+!exemplo.json  # (O '!' diz para NÃO ignorar este arquivo específico, se quiser deixar um exemplo)
+
+# --- Python (se você usar para os seus scripts de dados) ---
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# --- Sistema Operacional ---
+.DS_Store
+Thumbs.db
+
+# --- Configurações de IDE ---
+.vscode/
+.idea/
+
+# --- Segurança (IMPORTANTE) ---
+.env
+config.ini
