@@ -19,7 +19,7 @@ Durante as aulas 11 a 13, explorei como conectar tabelas diferentes:
 ---
 
 ### 📂 Conteúdo Atual
-Abaixo, a descrição dos scripts contidos nesta pasta:
+Abaixo, a descrição dos scripts e pastas contidos neste módulo:
 
 | Arquivo/Pasta | Descrição |
 | :--- | :--- |
@@ -33,10 +33,12 @@ Abaixo, a descrição dos scripts contidos nesta pasta:
 | `aula_11_join.sql` | Introdução ao conceito de relacionamento entre tabelas. |
 | `aula_12_inner_join.sql` | Retorno de registros com correspondência em ambas as tabelas. |
 | `aula_13_outer_join.sql` | Uso de `LEFT`, `RIGHT` e `FULL JOIN` para dados não correspondentes. |
+| `aplicacoes/` | Scripts com casos de uso e aplicações práticas do conteúdo. |
 | `exercicios_01/` | Pasta com desafios práticos iniciais. |
 | `exercicios_02_uso_de_filtros/` | Desafios práticos focados em filtragem de dados. |
 | `exercicios_03_case_when/` | Prática de criação de colunas condicionais e segmentação. |
 | `exercicios_04_ordenacao/` | Exercícios para ordenar e priorizar visualização de dados. |
+| `exercicios_06_joins/` | Desafios práticos integrando múltiplas tabelas. |
 
 ### 🚀 Como utilizar
 1. Clone o repositório: `git clone https://github.com/SEU_USUARIO/NOME_DO_REPO.git`
